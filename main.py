@@ -2,6 +2,7 @@ import random
 
 from segundo import segundo
 from primer import primero
+from tercero import tercero
 
 def main():
     x=random.randint(1,100)
@@ -13,6 +14,7 @@ def main():
     print(primero)
     
     print(segundo)
+    print(tercero)
         
 if __name__ == "__main__":
     main()
