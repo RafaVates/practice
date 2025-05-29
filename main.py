@@ -1,4 +1,6 @@
 import random
+
+from segundo import segundo
 from primer import primero
 
 def main():
@@ -10,6 +12,7 @@ def main():
 
     print(primero)
     
+    print(segundo)
         
 if __name__ == "__main__":
     main()
