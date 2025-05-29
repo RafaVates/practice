@@ -1,1 +1,1 @@
-const primero="PRIMERO"
+primero="PRIMERO"
