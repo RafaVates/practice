@@ -1,5 +1,7 @@
 import random
+
 from segundo import segundo
+from primer import primero
 
 def main():
     x=random.randint(1,100)
@@ -7,6 +9,8 @@ def main():
     print("Hola desde mi compu, segundo commit")
     print("Hola desde otro developer")
     print("Soy el dev original")
+
+    print(primero)
     
     print(segundo)
         
